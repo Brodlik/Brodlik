@@ -21,7 +21,7 @@
 
 ### Гибкие методологии
 
-- [Итеративная модель] (https://github.com/Brodlik/Presentation/blob/main/01_Проект_Электросамокат_итеративная.pdf)
+- [Итеративная модель](https://github.com/Brodlik/Presentation/blob/main/01_Проект_Электросамокат_итеративная.pdf)
 
 
 
