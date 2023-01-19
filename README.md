@@ -49,5 +49,7 @@
 ![Gmail](https://img.shields.io/badge/-brdrsv@gmail.com-343434?style=flat-square&logo=gmail)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brodlik)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brodlik&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
