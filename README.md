@@ -47,3 +47,7 @@
 ![Phone](https://img.shields.io/badge/-9778320995-343434?style=flat-square&logo=whatsapp)
 ![Email](https://img.shields.io/badge/-brodlik@me.com-343434?style=flat-square&logo=apple)
 ![Gmail](https://img.shields.io/badge/-brdrsv@gmail.com-343434?style=flat-square&logo=gmail)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brodlik)](https://github.com/anuraghazra/github-readme-stats)
+
