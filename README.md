@@ -20,4 +20,9 @@ My projects
 
 
 
-Follow me
+### Contacts
+
+[![Telegram](https://img.shields.io/badge/-Telegram-343434?style=flat-square&logo=Telegram)](https://t.me/Brodlik)
+![Phone](https://img.shields.io/badge/-9778320995-343434?style=flat-square&logo=whatsapp)
+![Email](https://img.shields.io/badge/-brodlik@me.com-343434?style=flat-square&logo=apple)
+![Gmail](https://img.shields.io/badge/-brdrsv@gmail.com-343434?style=flat-square&logo=gmail)
