@@ -22,6 +22,8 @@
 ### Гибкие методологии
 
 - [Итеративная модель](https://github.com/Brodlik/Presentation/blob/main/01_Проект_Электросамокат_итеративная.pdf)
+- [SCRUM](https://github.com/Brodlik/Presentation/blob/main/03_Ремонт%20квартиры_SCRUM.pdf)
+- [VSM](https://github.com/Brodlik/Presentation/blob/main/04_VSM.pdf)
 
 
 
