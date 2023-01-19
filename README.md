@@ -1,7 +1,6 @@
 ![Header](https://github.com/Brodlik/Brodlik/blob/main/assets/MyName.png)
 
-About me
-QA инженер junior
+## I'm a beginner QA engineer
 
 My projects
 
