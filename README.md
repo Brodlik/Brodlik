@@ -12,12 +12,16 @@
 ![HTML](https://img.shields.io/badge/-HTML-343434?style=flat-square&logo=HTML)
 ![CSS](https://img.shields.io/badge/-CSS-343434?style=flat-square&logo=css)
 ![SQL](https://img.shields.io/badge/-SQL-343434?style=flat-square&logo=mysql)
-![DevTools](https://img.shields.io/badge/-DevTools-343434?style=flat-square&logo=DevTools)
+![DevTools](https://img.shields.io/badge/-DevTools-343434?style=flat-square&logo=GoogleChrome)
 ![Notion](https://img.shields.io/badge/-Notion-343434?style=flat-square&logo=notion)
 ![GoogleDocs](https://img.shields.io/badge/-GoogleDocs-343434?style=flat-square&logo=GoogleDocs)
 ![Agile](https://img.shields.io/badge/-Agile-343434?style=flat-square&logo=Agile)
 
 ### Testing Documantation
+
+### Гибкие методологии
+
+- [Итеративная модель] (https://github.com/Brodlik/Presentation/blob/main/01_Проект_Электросамокат_итеративная.pdf)
 
 
 
