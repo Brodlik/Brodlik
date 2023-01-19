@@ -1,6 +1,7 @@
-![Header](https://github.com/Brodlik/Brodlik/blob/main/assets/Logo_me.png)
+![Header](https://github.com/Brodlik/Brodlik/blob/main/assets/MyName.png)
 
 About me
+QA инженер junior
 
 My projects
 
