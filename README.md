@@ -1,8 +1,7 @@
 ![Header](https://github.com/Brodlik/Brodlik/blob/main/assets/MyName.png)
 
 ## I'm a beginner QA engineer
-
-My projects
+[Резюме](https://docs.google.com/document/d/1AALdoJi5rIoILfnoepDlECeTGmV5rZ3P/edit?usp=sharing&ouid=103182986369306761298&rtpof=true&sd=true)
 
 ### Languages and Tools
 ![Git](https://img.shields.io/badge/-GIT-343434?style=flat-square&logo=git)
@@ -17,6 +16,8 @@ My projects
 ![Notion](https://img.shields.io/badge/-Notion-343434?style=flat-square&logo=notion)
 ![GoogleDocs](https://img.shields.io/badge/-GoogleDocs-343434?style=flat-square&logo=GoogleDocs)
 ![Agile](https://img.shields.io/badge/-Agile-343434?style=flat-square&logo=Agile)
+
+### Testing Documantation
 
 
 
