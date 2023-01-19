@@ -1,9 +1,9 @@
 ![Header](https://github.com/Brodlik/Brodlik/blob/main/assets/MyName.png)
 
-## I'm a beginner QA engineer
+## Я начинающий QA инженер
 [Резюме](https://docs.google.com/document/d/1AALdoJi5rIoILfnoepDlECeTGmV5rZ3P/edit?usp=sharing&ouid=103182986369306761298&rtpof=true&sd=true)
 
-### Languages and Tools
+### Языки и инструменты
 ![Git](https://img.shields.io/badge/-GIT-343434?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-343434?style=flat-square&logo=GitHub)
 ![VSC](https://img.shields.io/badge/-VSC-343434?style=flat-square&logo=VisualStudioCode)
@@ -17,13 +17,26 @@
 ![GoogleDocs](https://img.shields.io/badge/-GoogleDocs-343434?style=flat-square&logo=GoogleDocs)
 ![Agile](https://img.shields.io/badge/-Agile-343434?style=flat-square&logo=Agile)
 
-### Testing Documantation
+### Тестовая документация и другие проекты
 
-### Гибкие методологии
+#### Гибкие методологии
 
 - [Итеративная модель](https://github.com/Brodlik/Presentation/blob/main/01_Проект_Электросамокат_итеративная.pdf)
 - [SCRUM](https://github.com/Brodlik/Presentation/blob/main/03_Ремонт%20квартиры_SCRUM.pdf)
 - [VSM](https://github.com/Brodlik/Presentation/blob/main/04_VSM.pdf)
+
+#### Чек-листы
+- Проект "Лендинг страницы по тестированию"
+[Лендинг](https://docs.google.com/spreadsheets/d/1e70MJaWvTMULprKuI8WJWA1IS73WMvZT9_UwwmrnD1o/edit#gid=0)
+
+- Проект "FoodBuzz"
+[FoodBuzz](https://docs.google.com/spreadsheets/d/1M-ES2MNsoyfhqsNrbYbm0gN7qM7GhsmvK1lB2ituDQo/edit#gid=1751654849)
+
+#### Тест-кейсы
+- Проект "FoodBuzz" 
+    - [Раздел "Наш блог"](https://docs.google.com/spreadsheets/d/18YTAJyzpOjZ2UFWpR6FbBL2mUxf9Ubr5CTFJpZzTwOg/edit#gid=0)
+    - [Screenshot TMS](https://github.com/Brodlik/Checklists/blob/main/ТестКейс_НашБлог.png)
+    - [Screenshot testruns TMS](https://github.com/Brodlik/Checklists/blob/main/ТестРан_НашБлог.png)
 
 
 
