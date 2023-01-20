@@ -39,6 +39,12 @@
     - [Screenshot TMS](https://github.com/Brodlik/Checklists/blob/main/ТестКейс_НашБлог.png)
     - [Screenshot testruns TMS](https://github.com/Brodlik/Checklists/blob/main/ТестРан_НашБлог.png)
 
+#### Баг-репорты
+- Проект "FoodBuzz"
+    - [Раздел "Вкусное меню на сегодня"](https://docs.google.com/spreadsheets/d/1kOKsOdJ2WpIPZPtQ_1aI3J_hOlgf67mVo6Ho_ebkhGs/edit?usp=sharing)
+    - [Скриншоты баг-репортов в Jira](https://github.com/Brodlik/Scrennshots/commit/31dda6ef4d93f1128eca24bba8ad4330d837d853)
+
+
 
 
 ### Contacts
