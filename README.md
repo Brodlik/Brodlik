@@ -28,14 +28,14 @@
 
 #### Check-lists
 - Project "Landing page of the testing conference"
-[Check-list in GoogleDocs](https://docs.google.com/spreadsheets/d/1e70MJaWvTMULprKuI8WJWA1IS73WMvZT9_UwwmrnD1o/edit#gid=0)
+    - [Check-list in GoogleDocs](https://docs.google.com/spreadsheets/d/1e70MJaWvTMULprKuI8WJWA1IS73WMvZT9_UwwmrnD1o/edit#gid=0)
 
 - Project "FoodBuzz" 
-[Check-list in GoogleDocs](https://docs.google.com/spreadsheets/d/1M-ES2MNsoyfhqsNrbYbm0gN7qM7GhsmvK1lB2ituDQo/edit#gid=1751654849)
+    - [Check-list in GoogleDocs](https://docs.google.com/spreadsheets/d/1M-ES2MNsoyfhqsNrbYbm0gN7qM7GhsmvK1lB2ituDQo/edit#gid=1751654849)
 
 - Project "PayForm"
-[Check-list in Qase.io](https://app.qase.io/project/FO)
-[check-list in GoogleDocs](https://docs.google.com/spreadsheets/d/1AAiFAOC2dS25lisMTIf4HTui0Glm8eOyuOb0zRW5Leo/edit#gid=1811688265)
+    - [Check-list in Qase.io](https://app.qase.io/project/FO)
+    - [check-list in GoogleDocs](https://docs.google.com/spreadsheets/d/1AAiFAOC2dS25lisMTIf4HTui0Glm8eOyuOb0zRW5Leo/edit#gid=1811688265)
 
 #### Test-cases
 - Project "FoodBuzz" 
@@ -48,8 +48,8 @@
     - [Bug-reports in  GoogleDocs](https://docs.google.com/spreadsheets/d/1kOKsOdJ2WpIPZPtQ_1aI3J_hOlgf67mVo6Ho_ebkhGs/edit?usp=sharing)
     - [Bug-report's screenshots in Jira](https://github.com/Brodlik/Scrennshots/commit/31dda6ef4d93f1128eca24bba8ad4330d837d853)
 
-#### Testing report
-- https://github.com/Brodlik/Presentation/blob/main/Отчет_о_тестировании_Форма%20оплаты_3427_Драчева_Светлана.pdf
+#### Test-report
+- [Test-report of PayForm in PDF](https://github.com/Brodlik/Presentation/blob/main/Отчет_о_тестировании_Форма%20оплаты_3427_Драчева_Светлана.pdf)
 
 #### Test design and test analysis techniques
 
