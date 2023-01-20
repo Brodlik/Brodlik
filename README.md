@@ -54,6 +54,9 @@
 #### Test design and test analysis techniques
 
 - [Examples of test design techniques](https://docs.google.com/spreadsheets/d/1LcpEXEhlrAds3gUoeDco9w87DfcPUH2dCSWb_GcemZs/edit?usp=sharing)
+- Project "Payform"
+    - [MindMap PayForm](https://github.com/Brodlik/Presentation/blob/main/MindMap_PayForm.pdf)
+    -[Decomposition of documentation in GoogleDocs](https://docs.google.com/spreadsheets/d/1dZcOObI0M70HsIixkHKc0F330gGQZSLtPQZuWitLT_Q/edit?usp=sharing)
 
 ### Contacts
 
