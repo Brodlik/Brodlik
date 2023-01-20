@@ -49,14 +49,16 @@
     - [Bug-report's screenshots in Jira](https://github.com/Brodlik/Scrennshots/commit/31dda6ef4d93f1128eca24bba8ad4330d837d853)
 
 #### Test-report
-- [Test-report of PayForm in PDF](https://github.com/Brodlik/Presentation/blob/main/Отчет_о_тестировании_Форма%20оплаты_3427_Драчева_Светлана.pdf)
+- Project "PayForm" 
+    - [Test-report in PDF](https://github.com/Brodlik/Presentation/blob/main/Отчет_о_тестировании_Форма%20оплаты_3427_Драчева_Светлана.pdf)
 
 #### Test design and test analysis techniques
 
-- [Examples of test design techniques](https://docs.google.com/spreadsheets/d/1LcpEXEhlrAds3gUoeDco9w87DfcPUH2dCSWb_GcemZs/edit?usp=sharing)
+- No Project
+    - [Examples of test design techniques](https://docs.google.com/spreadsheets/d/1LcpEXEhlrAds3gUoeDco9w87DfcPUH2dCSWb_GcemZs/edit?usp=sharing)
 - Project "Payform"
-    - [MindMap PayForm](https://github.com/Brodlik/Presentation/blob/main/MindMap_PayForm.pdf)
-    -[Decomposition of documentation in GoogleDocs](https://docs.google.com/spreadsheets/d/1dZcOObI0M70HsIixkHKc0F330gGQZSLtPQZuWitLT_Q/edit?usp=sharing)
+    - [MindMap](https://github.com/Brodlik/Presentation/blob/main/MindMap_PayForm.pdf)
+    - [Decomposition of documentation in GoogleDocs](https://docs.google.com/spreadsheets/d/1dZcOObI0M70HsIixkHKc0F330gGQZSLtPQZuWitLT_Q/edit?usp=sharing)
 
 ### Contacts
 
