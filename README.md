@@ -1,6 +1,6 @@
 ![Header](https://github.com/Brodlik/Brodlik/blob/main/assets/MyName.png)
 
-## I'm a junior QA-engenner
+## I'm a junior QA-engineer
 [CV](https://docs.google.com/document/d/1AALdoJi5rIoILfnoepDlECeTGmV5rZ3P/edit?usp=sharing&ouid=103182986369306761298&rtpof=true&sd=true)
 
 ### Languages and Tools
