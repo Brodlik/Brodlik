@@ -1,6 +1,6 @@
 ![Header](https://github.com/Brodlik/Brodlik/blob/main/assets/MyName.png)
 
-## I'm ajubior QA-engenner
+## I'm a junior QA-engenner
 [CV](https://docs.google.com/document/d/1AALdoJi5rIoILfnoepDlECeTGmV5rZ3P/edit?usp=sharing&ouid=103182986369306761298&rtpof=true&sd=true)
 
 ### Languages and Tools
@@ -11,7 +11,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-343434?style=flat-square&logo=Jira&logoColor=2684ff)
 ![HTML](https://img.shields.io/badge/-HTML-343434?style=flat-square&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-343434?style=flat-square&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-343434?style=flat-square&logo=mysql)
+![SQL](https://img.shields.io/badge/-SQL-343434?style=flat-square&logo=MySql)
 ![DevTools](https://img.shields.io/badge/-DevTools-343434?style=flat-square&logo=GoogleChrome)
 ![Notion](https://img.shields.io/badge/-Notion-343434?style=flat-square&logo=notion)
 ![GoogleDocs](https://img.shields.io/badge/-GoogleDocs-343434?style=flat-square&logo=GoogleDocs)
@@ -63,8 +63,11 @@
 ### Contacts
 
 [![Telegram](https://img.shields.io/badge/-Telegram-343434?style=flat-square&logo=Telegram)](https://t.me/Brodlik)
-![Phone](https://img.shields.io/badge/-9778320995-343434?style=flat-square&logo=whatsapp)
+![Phone](https://img.shields.io/badge/-9778320995-343434?style=flat-square&logo=Phone)
 ![Email](https://img.shields.io/badge/-brodlik@me.com-343434?style=flat-square&logo=apple)
 ![Gmail](https://img.shields.io/badge/-brdrsv@gmail.com-343434?style=flat-square&logo=gmail)
+![Gmail](https://img.shields.io/badge/-brdrsv@gmail.com-343434?style=flat-square&logo=gmail)
+
+### Sertificates
 
 
